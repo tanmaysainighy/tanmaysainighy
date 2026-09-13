@@ -79,10 +79,6 @@ resume.
 That's genuinely how I'd rather be evaluated.
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=tanmaysainighy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F247913393%3Fu%3De48454a76517404b177f74c11ab4004aba94858d%26v%3D4" alt="Get in touch" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/sainitanmay">LinkedIn</a> ·
   <a href="mailto:tanmay.saini2025@vitstudent.ac.in">tanmay.sainighy@gmail.com</a>
 </p>
