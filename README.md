@@ -1,8 +1,5 @@
 <div align="center">
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=tanmaysainighy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F247913393%3Fu%3De48454a76517404b177f74c11ab4004aba94858d%26v%3D4" alt="Tanmay Saini" />
-</p>
+<h1> Tanmay Saini </h1>
 </div>
 
 ---
