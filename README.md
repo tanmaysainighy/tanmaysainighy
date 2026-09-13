@@ -87,5 +87,5 @@ That's genuinely how I'd rather be evaluated.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sainitanmay">LinkedIn</a> ·
-  <a href="mailto:tanmay.saini2025@vitstudent.ac.in">tanmay.saini2025@vitstudent.ac.in</a>
+  <a href="mailto:tanmay.saini2025@vitstudent.ac.in">tanmay.sainighy@gmail.com</a>
 </p>
